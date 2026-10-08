@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head> … </head>
+  <body>
+    <div class="flex min-h-screen flex-col">
+      <header class="sticky top-0 z-50 w-full border-b border-brand/15 bg-brand-dark/85 backdrop-blur-md"> … </header>
+      <main class="flex-1">
+        <div class="bg-white">
+
+          <section class="relative isolate overflow-hidden bg-brand-dark">
+            <div class="absolute inset-0"> … </div>
+            <div class="container relative py-16 sm:py-24 lg:py-32">
+              <div class="grid items-center gap-12 lg:grid-cols-[1.05fr_0.95fr]">
+                <div> … </div>
+                <div class="relative"> … </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="border-b border-brand-dark/10 bg-cyan-50/60"> … </section>
+          <section class="bg-white py-16 sm:py-24"> … </section>
+          <section class="relative isolate overflow-hidden bg-brand-dark py-16 sm:py-24"> … </section>
+          <section class="bg-white py-16 sm:py-24"> … </section>
+          <section class="border-y border-brand-dark/10 bg-cyan-50/60 py-16 sm:py-24"> … </section>
+          <section class="bg-white py-16 sm:py-24"> … </section>
+          <section id="book" class="relative isolate overflow-hidden bg-brand-dark py-16 sm:py-24"> … </section>
+
+        </div>
+      </main>
+      <footer class="border-t border-cyan-100/10 bg-brand-dark text-cyan-50"> … </footer>
+    </div>
+
+    <script> … </script>
+    <script> … </script>
+    <script type="module" async> … </script>
+    <!--$-->
+    <script> … </script>
+    <!--$-->
+    <script>window.__reactRouterContext.streamController.close();</script>
+    <!--/$-->
+    <!--/$-->
+    <script id="_R_">requestAnimationFrame(function(){$RT=performance.now()});</script>
+    <script> … </script>
+    <script>$RC("B:1","S:1")</script>
+    <style> … </style>
+    <script> … </script>
+
+    <div class="ls-preview-banner">This is a preview. Publish your website to make it live on your own domain.</div>
+    <span id="PING_CONTENT_PUSH_NOTIFICATION" style="display: none;"></span>
+    <span id="PING_CONTENT_APS_BALLOON" style="display: none;"></span>
+    <span id="PING_IFRAME_FORM_DETECTION" style="display: none;"></span>
+  </body>
+</html>
